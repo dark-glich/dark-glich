@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @dark-glich
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning django
-- 📫 How to reach me (mohdbilal9808464636@gmail.com)
+- 📫 You can reach me (mohdbilal9808464636@gmail.com)
+- ❤️Thanks
