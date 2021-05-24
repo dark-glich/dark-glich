@@ -4,9 +4,9 @@
 ## I'm a Student, Learner, and want to be a Programmer !!
 
 - 🔭 I just completed python Django : 
-- 🌱 I’m currently learning Vanila Javascript 🤣
-- 👯 I’m looking to forward to learn React
-- 🥅 2021 Goals: Become Better at Frontend Development
+- 🌱 I’m currently learning React JS.
+- 👯 I’m looking to forward to learn Tensorflow
+- 🥅 2021 Goals: To Become Better at Web Development 
 - ⚡ Fun fact: I love to Read and Listen Music
 
 ## Languages and Tools I Use :
