@@ -4,10 +4,9 @@
 ## I'm a Student, Learner, and want to be a Programmer !!
 
 - 🔭 I just completed python Django : 
-- 🌱 I’m currently learning React JS.
-- 👯 I’m looking to forward to learn Tensorflow
+- 🌱 I’m currently learning VueJS.
+- 👯 I’m looking to forward to learn Web Assembly
 - 🥅 2021 Goals: To Become Better at Web Development 
-- ⚡ Fun fact: I love to Read and Listen Music
 
 ## Languages and Tools I Use :
 
@@ -20,6 +19,8 @@
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="VueJS" width="40px" 
+src="https://w7.pngwing.com/pngs/595/279/png-transparent-vue-js-javascript-library-angularjs-react-vue-js-template-angle-text-thumbnail.png" />
 <br>
 <br>
 
